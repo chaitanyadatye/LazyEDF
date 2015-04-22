@@ -1,5 +1,7 @@
+
 #include "EDF_Algo_DVS.h"
 
+/* Authors : Sahil Deshpande, Chaitanya Datye */
 void create_Hyper_Queue()
 {
 	Q_Hyper = (Queue *)malloc(sizeof(Queue));
